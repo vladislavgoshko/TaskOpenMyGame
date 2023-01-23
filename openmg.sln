@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "openmg", "openmg.csproj", "{FDD6F960-DBC4-4009-9101-213E9F6C6A8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDD6F960-DBC4-4009-9101-213E9F6C6A8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDD6F960-DBC4-4009-9101-213E9F6C6A8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDD6F960-DBC4-4009-9101-213E9F6C6A8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDD6F960-DBC4-4009-9101-213E9F6C6A8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89581AC2-C553-42CC-ABA9-F62C7594423E}
+	EndGlobalSection
+EndGlobal
